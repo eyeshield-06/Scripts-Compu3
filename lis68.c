@@ -1,4 +1,7 @@
 #include <stdio.h>
+// arreglarlo
+// dim[2] no tiene sentido, recordar que los indices
+// son desde el 0
 int main(){
     void printer(int dim[2], int mat[dim[1]][dim[2]]);
     void alphax(int dim[2], int mat[dim[1]][dim[2]]);
